@@ -6,4 +6,4 @@ episodic), constitutional guardrails, and sandboxed browser/code capabilities.
 
 ## Project Plan
 
-See the step-by-step, task-complete plan in `docs/titanic-plan.md`.
+See the step-by-step execution guide and checklist in `docs/titanic-plan.md`.
